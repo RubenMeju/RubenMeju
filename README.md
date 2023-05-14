@@ -1,5 +1,5 @@
 <code style="margin:auto">
-   <img widht="60%" alt="javascript" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgzMmU3NWJhMDE4ZTVjZTRmM2M4YTQxNGVhNGVkNDI1NzQ4ZWQ2NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LMcB8XospGZO8UQq87/giphy.gif">
+   <img widht="60%" margin="auto" alt="javascript" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 </code>
 
 <p align="center" width="300">
