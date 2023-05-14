@@ -1,6 +1,6 @@
-<code style="margin:auto">
+
    <img widht="60%" margin="auto" alt="javascript" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
-</code>
+
 
 <p align="center" width="300">
    <h3 align="center">¡Hey 👋! Soy Rubén Yáñez 👨🏻‍💻</h3>
