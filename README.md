@@ -1,4 +1,4 @@
-<p align="center"><a href="https://rubenyanez.com"><img width="300px%" alt="Hello, I'm Rubén. I do open source!" src="./yo.jpg" /></a></p>
+<p align="center"><a href="https://rubenyanez.com"><img width="200px%" alt="Hello, I'm Rubén. I do open source!" src="./yo.jpg" /></a></p>
 
 <br />
 
