@@ -1,5 +1,7 @@
-<p align="center"><a href="https://rubenyanez.com"><img width="200px" height="200px" style="border-radius:'50%'" alt="Hello, I'm Rubén. I do open source!" src="./yo.jpg" /></a></p>
-
+<p align="center" width="300">
+   <img align="center" width="200" src="./yo.jpg" />
+   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
+</p>
 <br />
 
 I'm a self-taught passionate FrontEnd developer from Spain
