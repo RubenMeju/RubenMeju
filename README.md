@@ -1,5 +1,6 @@
-
+<p align="center">
    <img widht="60%" margin="auto" alt="javascript" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+</p>
 
 
 <p align="center" width="300">
