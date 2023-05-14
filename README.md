@@ -1,10 +1,11 @@
+<code>
 <style>
    .icons{
       width:80%;
       background:green;
    }
 </style
-
+   </code>
 <p align="center" width="300">
    <img align="center" width="200" src="./yo.jpg" />
    <h3 align="center">¡Hey 👋! Soy Rubén Yáñez 👨🏻‍💻</h3>
