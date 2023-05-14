@@ -28,4 +28,6 @@ I'm a self-taught passionate FrontEnd developer from Spain
 
 
 | <a href="https://github.com/rubenmeju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rubenmeju&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ruben's github stats" /></a> | <a href="https://github.com/rubenmeju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmeju&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+<br/>
+![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
