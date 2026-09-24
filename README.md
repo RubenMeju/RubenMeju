@@ -53,12 +53,7 @@
 ### 📊 // GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubenmeju&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmeju&layout=compact&theme=radical&hide_border=true&langs_count=7" alt="Lenguajes" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rubenmeju&theme=radical&hide_border=true" alt="Racha" width="100%" />
+  <img width="100%" src="https://raw.githubusercontent.com/RubenMeju/RubenMeju/main/github-stats.svg" alt="Estadísticas de GitHub: actividad, racha y lenguajes" />
 </p>
 
 ---
