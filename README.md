@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/rubenmeju/rubenmeju/main/assets/circuit-anim.svg" alt="Del código al mundo físico: código, ESP32, sensor, nube y LED" />
+  <img width="100%" src="https://raw.githubusercontent.com/RubenMeju/RubenMeju/main/circuit-anim.svg" alt="Del código al mundo físico: código, ESP32, sensor, nube y LED" />
 </p>
 
 <h1 align="center">¡Hola, mundo! ⚡ Soy Rubén Yáñez</h1>
@@ -45,8 +45,7 @@
 ### ⚡ // Animación IoT & datos en tiempo real
 
 <p align="center">
-  <img width="48%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animación Backend/IoT" />
-  <img width="48%" src="https://user-images.githubusercontent.com/74038190/212284087-f6746816-e685-48b4-934c-473d092d6e35.gif" alt="Animación de redes" />
+  <img width="100%" src="https://raw.githubusercontent.com/RubenMeju/RubenMeju/main/telemetry-anim.svg" alt="Osciloscopio: señal analógica y digital en tiempo real" />
 </p>
 
 ---
