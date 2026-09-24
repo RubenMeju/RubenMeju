@@ -1,38 +1,58 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Rubán%20Yáñez&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Engineer%20%7C%20Building%20Digital%20Experiences&descSize=16&descAlignY=62" width="100%" />
+</div>
+
 <p align="center">
-   <img widht="60%" margin="auto" alt="javascript" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+  <img src="https://komarev.com/ghpvc/?username=rubenmeju&color=0e76a6&style=flat-square&label=PERFIL+VISITADO" alt="Visitas al perfil" />
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:Rubemeju@outlook.es"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="http://rubenyanez.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a>
 </p>
 
+---
 
-<p align="center" width="300">
-   <h3 align="center">¡Hey 👋! Soy Rubén Yáñez 👨🏻‍💻</h3>
+### 💻 ¿Quién soy?
+
+¡Hola! 👋 Soy **Rubén Yáñez**, un desarrollador **FullStack Engineer** autodidacta y apasionado ubicado en **España**. Me especializo en diseñar, desarrollar y escalar aplicaciones web completas de extremo a extremo, cuidando tanto la arquitectura del servidor como la fluidez de la interfaz de usuario.
+
+- 💼 **Trabajo actual:** FullStack Engineer en [RubenMeju](http://rubenyanez.com/)
+- 🧠 **Filosofía:** Escribir código limpio, mantenible y escalable.
+- 💬 **Hablame de:** Arquitectura web, APIs robustas, React, Node.js y optimización de rendimiento.
+- 📬 **Contacto directo:** [Rubemeju@outlook.es](mailto:Rubemeju@outlook.es)
+
+---
+
+### 🛠️ Stack Tecnológico
+
+<div align="center">
+
+| **Frontend** | **Backend** | **Bases de Datos & Cloud** | **Herramientas & DevOps** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" alt="Frontend" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,graphql" alt="Backend" /> | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,supabase" alt="DB & Cloud" /> | <img src="https://skillicons.dev/icons`?i=git,github,docker,vscode,postman,linux" alt="DevOps" /> |
+
+</div>
+
+---
+
+### 📊 Estadísticas y Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rubenmeju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmeju&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Lenguajes más usados" width="48%" />
 </p>
-<br />
 
-I'm a self-taught passionate FrontEnd developer from Spain
-
-**About me**
-
-- 💼 FrontEnd Engineer at [RubenMeju](http://rubenyanez.com/)
-
-- ❤️ I love programming
-
-- 💬 Ask me about anything Rubemeju@outlook.es
-
-<p style="background:green">
-<code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-<code><img height="30" alt="django" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4"></code>    
-<code><img height="30" alt="python" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"></code>    
-<code><img height="30" alt="python" src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67"></code>    
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubenmeju&theme=tokyonight&hide_border=true" alt="Racha de GitHub" width="100%" />
 </p>
 
+---
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase de código aleatoria" />
+</div>
 
+<br/>
 
-| <a href="https://github.com/rubenmeju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmeju&layout=compact&theme=buefy&hide_border=true" /></a> |
-
-![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,11,6&height=80&section=footer" width="100%" />
+</p>
