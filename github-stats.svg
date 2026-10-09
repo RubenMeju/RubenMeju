@@ -8,8 +8,8 @@
 <text x="36" y="142" font-size="13" fill="#7fb6c4">Commits</text><text x="274" y="142" font-size="13" fill="#cfeaf1" text-anchor="end">2508</text><text x="36" y="162" font-size="13" fill="#7fb6c4">Pull requests</text><text x="274" y="162" font-size="13" fill="#cfeaf1" text-anchor="end">0</text><text x="36" y="182" font-size="13" fill="#7fb6c4">Issues</text><text x="274" y="182" font-size="13" fill="#cfeaf1" text-anchor="end">1</text><text x="36" y="202" font-size="13" fill="#7fb6c4">Estrellas</text><text x="274" y="202" font-size="13" fill="#cfeaf1" text-anchor="end">12</text><text x="36" y="222" font-size="13" fill="#7fb6c4">Repositorios</text><text x="274" y="222" font-size="13" fill="#cfeaf1" text-anchor="end">32</text>
 <text x="331" y="46" font-size="12" fill="#7fb6c4">racha diaria</text>
 <circle cx="450" cy="106" r="46" fill="none" stroke="#0b2e3b" stroke-width="6"/>
-<circle cx="450" cy="106" r="46" fill="none" stroke="#ffb547" stroke-width="6" stroke-linecap="round" stroke-dasharray="289 289" transform="rotate(-90 450 106)"/>
-<text x="450" y="118" font-size="34" font-weight="700" fill="#ffb547" text-anchor="middle">72</text>
+<circle cx="450" cy="106" r="46" fill="none" stroke="#ffb547" stroke-width="6" stroke-linecap="round" stroke-dasharray="0 289" transform="rotate(-90 450 106)"/>
+<text x="450" y="118" font-size="34" font-weight="700" fill="#ffb547" text-anchor="middle">0</text>
 <text x="450" y="176" font-size="12" fill="#7fb6c4" text-anchor="middle">días seguidos</text>
 <text x="331" y="204" font-size="13" fill="#7fb6c4">Mejor racha</text><text x="569" y="204" font-size="13" fill="#cfeaf1" text-anchor="end">72 días</text>
 <text x="331" y="224" font-size="13" fill="#7fb6c4">Días activos</text><text x="569" y="224" font-size="13" fill="#cfeaf1" text-anchor="end">277</text>
